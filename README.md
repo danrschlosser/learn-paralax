@@ -3,7 +3,7 @@ Building Awesome Websites
 
 [learn.adicu.com/websites](http://learn.adicu.com/websites)
 
-Master paralax scrolling, scrollto links, and more!  This curriculum is designed to be accesible to anyone who has had some exposure to JavaScript and jQuery, and is interested in learning about building modern landing pages.
+Master paralax scrolling, scroll to links, and more!  This curriculum is designed to be accesible to anyone who has had some exposure to JavaScript and jQuery, and is interested in learning about building modern landing pages.
 
 #### Building
 
